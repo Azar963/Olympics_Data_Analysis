@@ -1,5 +1,14 @@
 # Olympics_Data_Analysis
 
+Olympics Data Analysis Project with SQL
+
+The Olympic Games are a global event that brings together athletes from around the world to compete in various sports. With the Summer and Winter Olympics held every four years, there is a wealth of data that can be analyzed to understand the performance of different countries, sports, and athletes.
+
+For this data analysis project, we will use SQL to analyze data from the past 20 years (2000-2020) of the Summer Olympics.
+To begin, we will need to gather the data and import it into a SQL database. The official Olympic website (www.olympic.org) has a list of all medalists for each Olympic Games, which can be downloaded as a CSV file and imported into a table in our database.
+
+Once the data is in the database, we can use SQL queries to clean and organize it. This may include removing any irrelevant columns, renaming columns for clarity, and handling any missing or incorrect data.
+
 -- 1. How many olympics games have been held?
 
 
